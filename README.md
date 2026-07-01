@@ -254,7 +254,7 @@ Inventra AI utilizes `agents-cli eval` to run deterministic checks on system beh
 
 | Dashboard View | Pending Approvals |
 | --- | --- |
-| ![Dashboard Placeholder]<img width="1361" height="615" alt="Image" src="https://github.com/user-attachments/assets/3a350db1-9ed0-4f36-a628-5803cf03cc49" /> | ![Approval Widget](https://via.placeholder.com/600x350.png?text=HITL+Approval+and+Security+Alerts) |
+| <img width="1361" height="615" alt="Image" src="https://github.com/user-attachments/assets/3a350db1-9ed0-4f36-a628-5803cf03cc49" /> | <img width="1359" height="610" alt="Image" src="https://github.com/user-attachments/assets/a8b224c1-7c76-48f3-aa98-cf14a2b9b8eb" /> |
 
 ---
 
